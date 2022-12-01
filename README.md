@@ -4,4 +4,4 @@
 
 #### Description: Analyze and agree on this Amazon solution's pros and cons. A group of four people carried out this project.
 
-#### Commercial use: An example of how analysis can be done.
+#### Business use: An example of how analysis can be done.
